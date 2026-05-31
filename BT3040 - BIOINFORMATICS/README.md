@@ -3,8 +3,8 @@ BT3040 - Bioinformatics
 This repository contains all the assignments covered in the lab portion of BT3040     
 
 
-| Practical | Topics |
-|---|---|
+| Practical Number | Topic |
+|:---:|:---:|
 | 1 | Emboss and Seq2Feature |
 | 2 | Databases for Bioinformatics |
 | 3 | Analysing Protein Databases |
@@ -16,7 +16,7 @@ This repository contains all the assignments covered in the lab portion of BT304
 | 9 | Non-Redundant Sequence Identification |
 | 10 | Phylogeny |
 | 11 | Secondary Structure Prediction |
-| 12 | PyMOL |   
+| 12 | PyMOL |
 
 BE23B016        
 K Varunkumar      
