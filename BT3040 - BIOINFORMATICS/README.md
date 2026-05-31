@@ -8,7 +8,7 @@ This repository contains all the assignments covered in the lab portion of BT304
 | 1 | Emboss and Seq2Feature |
 | 2 | Databases for Bioinformatics |
 | 3 | Analysing Protein Databases |
-| 4 | Sequence Alignment |
+| 4 | Pairwise Sequence Alignment |
 | 5 | Multiple Sequence Alignment |
 | 6 | Determining Conservation Scores |
 | 7 | Protein Sequence Analysis |
