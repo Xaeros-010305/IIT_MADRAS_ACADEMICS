@@ -3,7 +3,7 @@ BT3040 - Bioinformatics
 This repository contains all the assignments covered in the lab portion of BT3040     
 
 
-| Practical Number | Topic |
+| Practical | Topic |
 |:---:|:---:|
 | 1 | Emboss and Seq2Feature |
 | 2 | Databases for Bioinformatics |
